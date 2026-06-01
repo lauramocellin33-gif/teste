@@ -7,10 +7,12 @@ background-color:#FFDAB9;
 
 .capa{
     color:aliceblue;
-    font: size 200px;
+    font-size 20px;
 }
 
 #vôlei{
-display: flex:
+display: flex;
 padding-left: 200px;
+
 }
+
